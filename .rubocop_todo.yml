@@ -46,5 +46,4 @@ Layout/LineLength:
   Max: 198
 
 Lint/ScriptPermission:
-  Exclude:
-    - 'bin/bundle'
+  Enabled: false
