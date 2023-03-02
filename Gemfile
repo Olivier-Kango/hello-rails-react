@@ -76,3 +76,4 @@ gem 'rubocop', '>= 1.0', '< 2.0'
 
 # Add dotenv
 gem 'dotenv-rails', groups: %i[development test]
+gem 'rack-cors'
